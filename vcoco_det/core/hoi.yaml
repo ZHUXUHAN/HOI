@@ -1,0 +1,5 @@
+TRAIN:
+  WEIGHTS: /home/priv-lab1/workspace/zxh/pet-project/weights/R-50.pkl
+
+TEST:
+   WEIGHTS: /home/priv-lab1/workspace/zxh/pet-project/weights/R-50.pkl
